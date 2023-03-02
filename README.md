@@ -13,7 +13,7 @@ A Fullstack Booking App using MERN (mongo, express, react, node)
 - MongoDB
 
 ## Diagrams
-![image](https://user-images.githubusercontent.com/33766593/222309848-0767aae3-448f-446c-b366-b78a051f6696.png)
+![image](https://user-images.githubusercontent.com/33766593/222319070-13b526cf-d135-4c8f-959a-a5c882021767.png)
 
 
 ## Demo
