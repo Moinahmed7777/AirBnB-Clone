@@ -8,6 +8,9 @@ module.exports = {
         secondary: "#252525",
       },
     },
+    screens: {
+      lg: "1790px",
+    },
   },
   plugins: [],
 };

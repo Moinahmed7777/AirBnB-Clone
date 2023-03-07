@@ -14,7 +14,7 @@ export default function AccountNav(){
         }else{
             classes += ' bg-gray-200'
         }
-        return classes
+        return classes;
 
     }
     return (
@@ -35,5 +35,5 @@ export default function AccountNav(){
                     </svg>
                     My accomodations</Link>
             </nav>
-    )
+    );
 }
